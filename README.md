@@ -1,2 +1,3 @@
 # coding-challenge-testimonials-grid
-This coding challenge is from FrontendMentor.io. 
+
+This is the finished coding challenge from FrontendMentor.io. 
